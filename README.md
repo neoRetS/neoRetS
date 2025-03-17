@@ -1,2 +1,1 @@
-Hello!
-Have a nice day!
+你好！
